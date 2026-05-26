@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productralidate",
+        "uuid": 10988508,
+        "checksum": "4mczmi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
